@@ -2,15 +2,5 @@
 
 A new Flutter project to access the action and informations form mobile devices
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ScreenShots
+![processed-41e482ba-7de3-4707-8880-cd9d7e69459c_uXJVESmf](https://user-images.githubusercontent.com/33664603/215768457-698f74d5-831e-4645-bb6d-3b76f15f02a1.jpeg)
